@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<h1>Hi ![image](https://user-images.githubusercontent.com/57968302/127876619-d0b7d951-e9c7-4c64-8f39-33ba6615d49b.png)
-, I'm Juliana Meneguete</h1>
+<h1>Hi there 👋, I'm Juliana Meneguete</h1>
 <h3>A passionate full-stack developer studying in a tech bootcamp at Driven Education..</h3>
 
 <h3 align="left">Connect with me:</h3>
