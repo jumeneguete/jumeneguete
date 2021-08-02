@@ -1,5 +1,5 @@
 <h1>Hi there 👋, I'm Juliana Meneguete</h1>
-<h3>A passionate full-stack developer studying in a tech bootcamp at Driven Education.</h3>
+<h4>A passionate full-stack developer studying in a tech bootcamp at Driven Education.</h4>
 
 <p> You will find here the projects I have been developing since Mach/2021  when I oficially started my jorney in technology at Driven Education. I am currently attending to classes every day from 2pm to 8pm scheduled to end in September.</p>
 
