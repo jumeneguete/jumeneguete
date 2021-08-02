@@ -1,11 +1,13 @@
 <h1>Hi there 👋, I'm Juliana Meneguete</h1>
 <h3>A passionate full-stack developer studying in a tech bootcamp at Driven Education.</h3>
 
-<p> hddjfbdjfnj </p>
+<p> You will find here the projects I have been developing since Mach/2021  when I oficially started my jorney in technology at Driven Education. I am currently attending to classes every day from 2pm to 8pm scheduled to end in September.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/julianameneguete" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julianameneguete" height="30" width="40" /></a>
+  <a href="https://instagram.com/jumeneguete" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jumeneguete" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
