@@ -1,5 +1,7 @@
 <h1>Hi there 👋, I'm Juliana Meneguete</h1>
-<h3>A passionate full-stack developer studying in a tech bootcamp at Driven Education..</h3>
+<h3>A passionate full-stack developer studying in a tech bootcamp at Driven Education.</h3>
+
+<p> hddjfbdjfnj </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
