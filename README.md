@@ -9,7 +9,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/julianameneguete" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julianameneguete" height="30" width="40" /></a> <p>https://linkedin.com/in/julianameneguete</p>
   <br/>
-<a  href="mailto:jumeneguete@gmail.com"><img height="30em" alt="Email"  src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png"></a> <p>jumeneguete@gmail.com<p>
+<a  href="mailto:jumeneguete@gmail.com"><img height="30em" alt="Email"  src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png"></a> <p><a  href="mailto:jumeneguete@gmail.com">jumeneguete@gmail.com</a> <p>
   
 </p>
 <br/>
