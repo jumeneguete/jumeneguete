@@ -6,18 +6,20 @@
 
 <p> You will find here the projects I have been developing since Mach/2021  when I oficially started my jorney in technology at Driven Education. I am currently attending to classes every day from 2pm to 8pm scheduled to end in September.</p>
 
-<p> Lorem Ipsum-a jest u tome što umjesto 'sadržaj ovjde, sadržaj ovjde' imamo normalni raspored slova i riječi, pa čitač ima dojam da gleda tekst na razumljivom jeziku. Mnogi programi za stolno izdavaštvo i uređivanje web stranica danas koriste Lorem Ipsum kao zadani model tekst </p>
+<p> I have always believed that knowledge is the best way to improve everybody's quality of life. Initially I pursue this goal as a Chemistry Researcher, but I am quite sure that programming gives me the chance of creating great impact being more creative and generating results faster, that is motivation to learn, to code, and to make it open to scalability. </p>
 
 ---
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/julianameneguete" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julianameneguete" height="30" width="30" /></a> <p>https://linkedin.com/in/julianameneguete</p>
-  <br/>
-<a  href="mailto:jumeneguete@gmail.com"><img height="30" widht="30" alt="Email"  src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png"></a> <p><a  href="mailto:jumeneguete@gmail.com">jumeneguete@gmail.com</a> <p>
-  
+ 
+<a href="https://linkedin.com/in/julianameneguete" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="julianameneguete" height="25" width="25" /></a> &nbsp; <a  href="mailto:jumeneguete@gmail.com"><img height="20" widht="20" alt="Email"  src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png"></a> 
+
 </p>
-<br/>
+
+
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> </a>   
@@ -44,15 +46,20 @@
  
 <br/>
 
-<h3 align="left">GitHub Stats:</h3>
 
+<details>
+ <summary>:zap: <b>GitHub Stats</b></summary>
 <a  href="https://github.com/jumeneguete">
   <img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=jumeneguete&theme=buefy&show_icons=true">
 </a>
+</details>
 
+<details>
+ <summary>:zap: <b>Most Used Languages</b></summary>
 <a  href="https://github.com/jumeneguete">
   <img  height="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jumeneguete&theme=buefy&layout=compact">
 </a>
+</details>
 
 
 ---
