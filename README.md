@@ -1,6 +1,5 @@
 <h2>Hi there 👋, I'm Juliana Meneguete</h1>
 
-
 <h4>A passionate full-stack developer studying in a tech bootcamp at <a href="https://driveneducation.com.br/" target="blank" style="text-decoration: none; color:purple">Driven Education</a>. </h4>
  <img align="right" alt="GIF" src="https://media.giphy.com/media/9PhdJO4CMfyfXDCnko/giphy.gif" width="200"  /> 
  
