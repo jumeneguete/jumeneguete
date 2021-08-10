@@ -1,7 +1,7 @@
 <h2>Hi there 👋, I'm Juliana Meneguete</h1>
 
 <h4>A passionate full-stack developer studying in a tech bootcamp at <a href="https://driveneducation.com.br/" target="blank" style="text-decoration: none; color:purple">Driven Education</a>. </h4>
- <img align="right" alt="GIF" src="https://media.giphy.com/media/9PhdJO4CMfyfXDCnko/giphy.gif" width="200"  /> 
+ <p align="center" ><img alt="GIF" src="https://media.giphy.com/media/9PhdJO4CMfyfXDCnko/giphy.gif" width="120"  /> <p>
  
 <p> You will find here the projects I have been developing since Mach/2021  when I oficially started my jorney in technology at Driven Education. I am currently attending to classes every day from 2pm to 8pm scheduled to end in September.</p>
 
