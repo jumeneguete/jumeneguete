@@ -3,7 +3,7 @@
 
 <h4>A passionate full-stack developer studying in a tech bootcamp at <a href="https://driveneducation.com.br/" target="blank" style="text-decoration: none; color:purple">Driven Education</a>. </h4>
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/9PhdJO4CMfyfXDCnko/giphy.gif" width="150"  />
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/9PhdJO4CMfyfXDCnko/giphy.gif" width="200"  />
 <p> You will find here the projects I have been developing since Mach/2021  when I oficially started my jorney in technology at Driven Education. I am currently attending to classes every day from 2pm to 8pm scheduled to end in September.</p>
 
 <p> I have always believed that knowledge is the best way to improve everybody's quality of life. Initially I pursue this goal as a Chemistry Researcher, but I am quite sure that programming gives me the chance of creating great impact being more creative and generating results faster, that is motivation to learn, to code, and to make it open to scalability. </p>
