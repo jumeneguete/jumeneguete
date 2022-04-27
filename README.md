@@ -3,7 +3,7 @@
 <h4>A passionate full-stack developer. </h4>
  <p align="center" ><img alt="GIF" src="image/shecodes.png" width="120"  /> <p>
  
-<p> You will find here the projects I have been developing since March/2021  when I oficially started my jorney in technology at <a href="https://driveneducation.com.br/" target="blank" style="text-decoration: none; color:purple">Driven Education</a>. Currently working as Software Engineer at <a href="https://br.linkedin.com/company/olx-brasil" target="blank" style="text-decoration: none; color:purple">OLX Brasil</a></p>
+<p> You will find here the projects I have been developing since March/2021  when I oficially started my jorney in technology at <a href="https://driveneducation.com.br/" target="blank" style="text-decoration: none; color:purple">Driven Education</a>. Currently working as Software Engineer at <a href="https://br.linkedin.com/company/olx-brasil" target="blank" style="text-decoration: none; color:purple">OLX Brasil</a></p>.
 
 <p> I have always believed that knowledge is the best way to improve everybody's quality of life. Initially I pursue this goal as a Chemistry Researcher, but I am quite sure that programming gives me the chance of creating great impact being more creative and generating results faster, that is my motivation to code and keep learning every day. </p>
 
